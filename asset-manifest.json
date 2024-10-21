@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/saras-ai/static/css/main.6a3ef8be.css",
+    "main.js": "/saras-ai/static/js/main.8007f338.js",
+    "static/js/453.d9f3b605.chunk.js": "/saras-ai/static/js/453.d9f3b605.chunk.js",
+    "static/media/faq-banner.jpg": "/saras-ai/static/media/faq-banner.62e0bc8d770bfd34ef52.jpg",
+    "index.html": "/saras-ai/index.html",
+    "main.6a3ef8be.css.map": "/saras-ai/static/css/main.6a3ef8be.css.map",
+    "main.8007f338.js.map": "/saras-ai/static/js/main.8007f338.js.map",
+    "453.d9f3b605.chunk.js.map": "/saras-ai/static/js/453.d9f3b605.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3ef8be.css",
+    "static/js/main.8007f338.js"
+  ]
+}
